@@ -1,0 +1,8 @@
+name: Vote
+main: me.michaelkrauty.Vote.Vote
+author: michaelkrauty
+version: 1.0
+commands:
+   vote:
+     description: The vote command.
+     usage: /vote

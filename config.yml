@@ -1,0 +1,14 @@
+command_message: 'Voting links:'
+error_message: 'Usage: /vote'
+amount_of_links: 10
+links:
+  link1: 'link 1'
+  link2: 'link 2'
+  link3: 'link 3'
+  link4: 'link 4'
+  link5: 'link 5'
+  link6: 'link 6'
+  link7: 'link 7'
+  link8: 'link 8'
+  link9: 'link 9'
+  link10: 'link 10'
